@@ -14,6 +14,6 @@ ToonVideo Transformer는 비디오를 카툰 스타일로 변환하는 간단하
 ## 만화같은 느낌이 잘 표현되지 않는 영상
 <img width="579" alt="스크린샷 2024-03-22 오후 4 06 01" src="https://github.com/skdltn210/toon_video_transformer/assets/113167709/db57f2ca-3b15-47e4-bfce-58d63fc7d03f">
 
-<img width="572" alt="스크린샷 2024-03-22 오후 4 06 13" src="https://github.com/skdltn210/toon_video_transformer/assets/113167709/70c45d16-80dc-4e91-802c-2941dcdb90d9">
+<img width="575" alt="스크린샷 2024-03-22 오후 4 09 52" src="https://github.com/skdltn210/toon_video_transformer/assets/113167709/09e435db-a86c-49b8-b372-b79023722b6e">
 
 ## 한계
